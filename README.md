@@ -1,2 +1,2 @@
-A personalized Hacker News. https://ruanyf.github.io/hn/
+A personalized Hacker News. https://gaohanghang.cn/hn/
 
